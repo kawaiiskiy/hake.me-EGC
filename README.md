@@ -1,2 +1,2 @@
-# hake.me-EGC
-hake.me community / scripts EGC
+# hake.me kawaiiskiy
+hake.me community / scripts for hake
